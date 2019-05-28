@@ -20,7 +20,7 @@ body{
     justify-content: center;
 }
 
-content{
+.content{
     position: fixed;
     top: 50%;
     left: 50%;
@@ -53,6 +53,11 @@ p{
 
 .namn{
     font-size: 60px;    
+}
+
+a{
+    color: #BAB8C6;
+    text-decoration: none;
 }
 
 @media screen and (max-width: 600px) {
